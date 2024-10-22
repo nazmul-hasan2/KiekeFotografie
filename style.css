@@ -9,7 +9,23 @@
 body{
     font-family: "Fira Sans", sans-serif;
 }
-.img-h {
-    height: 100%;
-    width: 713px;
-    border-radius: 55px;}
+
+.btn-clr{
+    background-color: #FE8C45;
+}
+
+.btn-clr:hover{
+    background-color: #fe690c;
+}
+
+.large-text{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 78px;
+}
+
+.secnd{
+    height: 520px;
+    margin-left: 3.8rem;
+    object-fit: none;
+}

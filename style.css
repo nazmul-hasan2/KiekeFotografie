@@ -58,3 +58,14 @@ body{
 .cbg{
     background-color: #222222;
 }
+
+.insta h4 {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.insta img {
+  border-radius: 10px;
+  object-fit: cover;
+}
+

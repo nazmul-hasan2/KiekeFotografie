@@ -18,6 +18,13 @@ body{
     background-color: #fe690c;
 }
 
+.btn-colr{
+    background-color: #8A47F6;
+}
+.btn-colr:hover{
+    background-color: #8A47F6;
+}
+
 .large-text{
     font-size: 64px;
     font-weight: 700;
@@ -28,4 +35,22 @@ body{
     height: 520px;
     margin-left: 3.8rem;
     object-fit: none;
+}
+
+.about-us{
+    background-color: #F3EDFE;
+}
+
+.about{
+    font-size: 14px;
+}
+
+.large-med{
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 68px;
+}
+
+.hs{
+    margin-top: 500px;
 }
